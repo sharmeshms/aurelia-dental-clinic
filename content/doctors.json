@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "dr-amara-okafor",
+    "name": "Dr. Amara Okafor",
+    "designation": "Clinical Director & Prosthodontist",
+    "qualifications": ["BDS", "MSc Prosthodontics"],
+    "specialisation": "Prosthodontics & Implant Restorations",
+    "experience": "18 years",
+    "image": "/images/doctor-6.jpg",
+    "intro": [
+      "Amara leads Aurelia's restorative team and has spent nearly two decades helping patients rebuild function and confidence after complex tooth loss. She is known for a calm, methodical approach and for explaining the trade-offs of each option without pressure.",
+      "Her clinical interests include implant-supported restorations, full mouth rehabilitation and the conservative management of tooth wear. She works closely with the laboratory to ensure that the details — shade, texture and bite — are right."
+    ],
+    "expertise": ["Full mouth rehabilitation", "Implant-supported restorations", "Tooth wear management", "Ceramic crowns and veneers"],
+    "languages": ["English", "French"],
+    "availability": [
+      { "days": ["Mon", "Tue", "Thu"], "slots": ["09:00", "10:00", "11:00", "14:00", "15:00"] },
+      { "days": ["Fri"], "slots": ["09:00", "10:00", "11:00"] }
+    ],
+    "featured": true,
+    "isPlaceholder": true,
+    "active": true
+  },
+  {
+    "slug": "dr-rohan-mehta",
+    "name": "Dr. Rohan Mehta",
+    "designation": "Implant & Oral Surgeon",
+    "qualifications": ["BDS", "MDS Oral & Maxillofacial Surgery"],
+    "specialisation": "Implantology & Surgical Dentistry",
+    "experience": "14 years",
+    "image": "/images/doctor-2.jpg",
+    "intro": [
+      "Rohan oversees implant and surgical care at the studio. He plans every case digitally before surgery, with a particular focus on preserving bone and gum architecture around implants.",
+      "He is a firm believer in honest case selection: if an implant is not the right answer, he will say so and explain what is. His surgical manner is unhurried, and anxious patients are a routine part of his day."
+    ],
+    "expertise": ["Dental implants", "Bone grafting", "Wisdom tooth surgery", "Digital surgical planning"],
+    "languages": ["English", "Hindi", "Gujarati"],
+    "availability": [
+      { "days": ["Mon", "Wed", "Fri"], "slots": ["09:30", "10:30", "13:00", "14:30"] },
+      { "days": ["Sat"], "slots": ["09:00", "10:00"] }
+    ],
+    "featured": true,
+    "isPlaceholder": true,
+    "active": true
+  },
+  {
+    "slug": "dr-elena-marchetti",
+    "name": "Dr. Elena Marchetti",
+    "designation": "Specialist Orthodontist",
+    "qualifications": ["DMD", "MSc Orthodontics"],
+    "specialisation": "Orthodontics & Dentofacial Orthopaedics",
+    "experience": "16 years",
+    "image": "/images/doctor-1.jpg",
+    "intro": [
+      "Elena leads the orthodontic service, treating adults and teenagers with both fixed appliances and clear aligner systems. Her planning philosophy is conservative: move only what needs moving, and protect the gums throughout.",
+      "She takes time to show patients their scans and simulations, so the expected result — and its limits — are understood before treatment starts."
+    ],
+    "expertise": ["Clear aligner therapy", "Adult orthodontics", "Interceptive treatment for children", "Retention planning"],
+    "languages": ["English", "Italian"],
+    "availability": [
+      { "days": ["Tue", "Wed", "Thu"], "slots": ["09:00", "10:00", "11:00", "15:00", "16:00"] }
+    ],
+    "featured": true,
+    "isPlaceholder": true,
+    "active": true
+  },
+  {
+    "slug": "dr-sofia-alvarez",
+    "name": "Dr. Sofia Alvarez",
+    "designation": "Cosmetic & Restorative Dentist",
+    "qualifications": ["DDS", "PGCert Aesthetic Dentistry"],
+    "specialisation": "Cosmetic & Restorative Dentistry",
+    "experience": "11 years",
+    "image": "/images/doctor-4.jpg",
+    "intro": [
+      "Sofia works with patients who want to refine their smile without it looking obviously treated. She favours composite bonding and minimal-preparation ceramics, and is meticulous about shade and surface texture.",
+      "Before any cosmetic work, she insists on a healthy foundation — stable gums, treated decay and a comfortable bite — because good aesthetics do not last on an unhealthy mouth."
+    ],
+    "expertise": ["Composite bonding", "Ceramic veneers", "Smile design", "Tooth-coloured restorations"],
+    "languages": ["English", "Spanish"],
+    "availability": [
+      { "days": ["Mon", "Wed", "Fri"], "slots": ["10:00", "11:30", "14:00", "16:00"] }
+    ],
+    "featured": true,
+    "isPlaceholder": true,
+    "active": true
+  },
+  {
+    "slug": "dr-priya-nair",
+    "name": "Dr. Priya Nair",
+    "designation": "Paediatric Dentist",
+    "qualifications": ["BDS", "MDS Paediatric Dentistry"],
+    "specialisation": "Children's Dentistry",
+    "experience": "9 years",
+    "image": "/images/doctor-woman-2.jpg",
+    "intro": [
+      "Priya looks after our youngest patients, from first visits to teenage orthodontic referrals. Her approach is built on trust: nothing happens until a child is comfortable, and parents are involved at every step.",
+      "She has a particular interest in early prevention and in helping anxious children build a positive relationship with dental care that lasts into adulthood."
+    ],
+    "expertise": ["First dental visits", "Preventive care for children", "Fissure sealants", "Behaviour management"],
+    "languages": ["English", "Malayalam", "Hindi"],
+    "availability": [
+      { "days": ["Tue", "Thu", "Sat"], "slots": ["09:00", "10:00", "11:00", "14:00"] }
+    ],
+    "featured": true,
+    "isPlaceholder": true,
+    "active": true
+  },
+  {
+    "slug": "dr-james-whitfield",
+    "name": "Dr. James Whitfield",
+    "designation": "Endodontist",
+    "qualifications": ["BDS", "MSc Endodontics"],
+    "specialisation": "Root Canal Therapy & Micro-Endodontics",
+    "experience": "12 years",
+    "image": "/images/doctor-man-1.jpg",
+    "intro": [
+      "James focuses on saving teeth that others might consider for extraction. Using magnification and modern rotary systems, he manages complex canal anatomy and re-treatment cases with a quiet, precise technique.",
+      "He is candid about prognosis: some teeth are worth investing in, and some are not. He will give you a realistic view before you commit to treatment."
+    ],
+    "expertise": ["Root canal therapy", "Endodontic re-treatment", "Dental trauma", "Micro-endodontics"],
+    "languages": ["English"],
+    "availability": [
+      { "days": ["Mon", "Tue", "Wed"], "slots": ["09:00", "11:00", "14:00", "16:30"] }
+    ],
+    "featured": false,
+    "isPlaceholder": true,
+    "active": true
+  }
+]

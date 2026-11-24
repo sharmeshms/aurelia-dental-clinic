@@ -1,0 +1,60 @@
+[
+  {
+    "category": "General Dentistry",
+    "items": [
+      { "q": "How often should I visit the dentist?", "a": "Most adults benefit from a check-up every six to twelve months, but the right interval depends on your gum health, decay risk and medical history. We recommend a recall period based on your individual needs rather than a fixed rule." },
+      { "q": "Do you treat nervous patients?", "a": "Yes. We see many patients who have avoided dental care for years. Longer appointments, careful explanation, agreed stop signals and, where appropriate, sedation options can make treatment far more manageable. Please tell us when booking so we can plan." },
+      { "q": "What should I bring to my first appointment?", "a": "A list of any medications, relevant medical history, details of previous dental treatment if available, and your insurance information if applicable. Arriving ten minutes early helps us complete your registration calmly." },
+      { "q": "Are dental X-rays safe?", "a": "Dental radiographs use very low doses of radiation and are only taken when there is a clinical justification. Modern digital sensors reduce exposure further, and we keep a record of all images to avoid unnecessary repeats." },
+      { "q": "Can I request a specific dentist?", "a": "Yes, subject to availability. You can select a preferred clinician when booking online, and we will confirm the appointment once the clinic has reviewed the request." }
+    ]
+  },
+  {
+    "category": "Appointments",
+    "items": [
+      { "q": "How do I book an appointment?", "a": "You can request an appointment through the online form, call the clinic, or use the WhatsApp link. Online requests are received as pending until our team confirms the time with you by phone or email." },
+      { "q": "How quickly will my booking be confirmed?", "a": "We aim to respond to online requests within one working day. If you need urgent care, please call the clinic directly rather than waiting for an email response." },
+      { "q": "What is your cancellation policy?", "a": "We ask for at least 24 hours' notice if you need to change or cancel. Late cancellations and missed appointments may incur a fee, as the time has been reserved for you. Full details are in our terms and conditions." },
+      { "q": "Can I reschedule an existing appointment?", "a": "Yes. Contact the clinic with your reference number and we will find an alternative. Rescheduling is subject to availability." },
+      { "q": "Do you send appointment reminders?", "a": "We send a confirmation when your booking is accepted and a reminder before your visit. Please ensure your contact details are correct when booking." }
+    ]
+  },
+  {
+    "category": "Dental Procedures",
+    "items": [
+      { "q": "Will treatment hurt?", "a": "We use modern local anaesthetic techniques and take time to ensure you are comfortably numb before starting. Some tenderness afterwards is normal for certain procedures, and we provide specific aftercare advice." },
+      { "q": "How long does a crown take?", "a": "Usually two visits about two weeks apart: preparation and scanning at the first, fitting at the second. A temporary crown protects the tooth in between." },
+      { "q": "Can you whiten my crowns or veneers?", "a": "Whitening affects natural tooth structure only. Existing ceramic or composite restorations will not change colour. We can discuss replacing visible restorations or adjusting the plan so the result looks even." },
+      { "q": "Do you offer clear aligners?", "a": "Yes, for suitable cases. Aligners are planned digitally and require around 20 to 22 hours of wear per day. Complex bite problems may be better treated with fixed braces, and we will advise honestly." },
+      { "q": "What is the difference between a cleaning and gum treatment?", "a": "A routine clean removes deposits above and just below the gum line. Periodontal treatment addresses deeper pockets and inflammation, often with local anaesthetic and a maintenance plan. The appropriate treatment is determined at assessment." }
+    ]
+  },
+  {
+    "category": "Payments & Insurance",
+    "items": [
+      { "q": "How much will my treatment cost?", "a": "Costs depend on the treatment and its complexity. After assessment you receive a written estimate itemising each stage. We do not proceed with treatment until you have approved the plan and costs." },
+      { "q": "Which payment methods do you accept?", "a": "We accept major debit and credit cards, bank transfer and cash. Interest-free instalment plans may be available for larger treatment plans, subject to provider approval." },
+      { "q": "Do you accept dental insurance?", "a": "We work with a range of dental insurers on a fee-per-item basis. Please check your policy's cover and pre-authorisation requirements before treatment. We can provide itemised invoices and treatment codes to support your claim." },
+      { "q": "Can I spread the cost of treatment?", "a": "For eligible treatment plans, we can discuss staged payments or third-party finance. Approval, terms and any interest are determined by the finance provider, not the clinic." },
+      { "q": "Are consultations chargeable?", "a": "Routine consultations and examinations are chargeable, and the fee is explained when you book. Some treatment plans include review appointments; this will be set out in your estimate." }
+    ]
+  },
+  {
+    "category": "Emergency Care",
+    "items": [
+      { "q": "What should I do if I have severe toothache?", "a": "Call the clinic as early as possible. In the meantime, keep the area clean, avoid very hot or cold food, and use ordinary pain relief if it is safe for you. Do not place aspirin directly on the gum." },
+      { "q": "Is facial swelling an emergency?", "a": "Swelling that spreads towards the eye or neck, difficulty swallowing or breathing, or a fever with facial swelling requires urgent medical attention. Call your local emergency service or attend an emergency department immediately." },
+      { "q": "What if my tooth is knocked out?", "a": "For an adult tooth, handle it by the crown, rinse gently and try to reposition it. If that is not possible, keep it in milk and seek immediate dental care. Do not replant a baby tooth. Time matters, so call us straight away." },
+      { "q": "Can you help with a broken denture or lost crown?", "a": "Yes. We can often stabilise the appliance or recement a crown temporarily, then plan a definitive repair or replacement. Bring all pieces with you if possible." }
+    ]
+  },
+  {
+    "category": "Children's Dentistry",
+    "items": [
+      { "q": "When should my child first see a dentist?", "a": "Around their first birthday, or when the first teeth appear. Early visits are short, friendly and focused on familiarisation and prevention advice for parents." },
+      { "q": "Should I brush my child's teeth for them?", "a": "Yes, until around age seven or eight. Let them practise first, then brush thoroughly yourself, especially last thing at night. Use a fluoride toothpaste appropriate for their age." },
+      { "q": "Are baby teeth important if they will fall out?", "a": "Yes. They support chewing, speech and jaw development, and they hold space for adult teeth. Early decay can also affect the developing permanent tooth beneath." },
+      { "q": "My child is anxious. Can you help?", "a": "Definitely. Tell us when booking. We can allow extra time, use a gradual tell-show-do approach and avoid anything unexpected. We never rush a child who needs more time." }
+    ]
+  }
+]

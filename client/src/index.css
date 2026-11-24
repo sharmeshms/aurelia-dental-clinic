@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --shell: 1280px;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-white font-sans text-ink antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display font-normal tracking-[-0.015em] text-ink;
+  }
+
+  ::selection {
+    @apply bg-burgundy text-white;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-rose ring-offset-2 ring-offset-white;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-ivory;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-beige;
+    border: 2px solid #f8f4f1;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-rose;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-shell px-5 sm:px-8 lg:px-10;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-3 text-[11px] font-semibold uppercase tracking-luxe text-burgundy-soft;
+  }
+
+  .eyebrow::before {
+    content: "";
+    @apply h-px w-7 bg-rose;
+  }
+
+  .eyebrow-light {
+    @apply text-rose;
+  }
+
+  .surface {
+    @apply rounded-3xl border border-beige/80 bg-white shadow-soft;
+  }
+
+  .img-grade {
+    filter: saturate(0.93) contrast(1.03) brightness(1.01);
+  }
+
+  .prose-luxe p {
+    @apply mb-5 text-[15.5px] leading-[1.85] text-muted;
+  }
+
+  .prose-luxe p:last-child {
+    @apply mb-0;
+  }
+
+  .prose-luxe h2 {
+    @apply mb-4 mt-10 text-2xl text-ink sm:text-[28px];
+  }
+
+  .prose-luxe h3 {
+    @apply mb-3 mt-8 text-xl text-ink;
+  }
+
+  .prose-luxe ul {
+    @apply mb-5 space-y-2 pl-5 text-[15.5px] leading-relaxed text-muted;
+  }
+
+  .prose-luxe li {
+    @apply list-disc marker:text-rose;
+  }
+
+  .prose-luxe a {
+    @apply font-medium text-burgundy underline decoration-rose/60 underline-offset-4 hover:decoration-burgundy;
+  }
+
+  .field-label {
+    @apply mb-2 flex items-center gap-1 text-[12.5px] font-semibold uppercase tracking-[0.12em] text-ink/70;
+  }
+
+  .hairline {
+    @apply border-t border-beige/80;
+  }
+
+  .link-arrow {
+    @apply inline-flex items-center gap-2 text-sm font-semibold text-burgundy transition-colors hover:text-burgundy-soft;
+  }
+
+  .link-arrow svg {
+    @apply transition-transform duration-300 ease-luxe;
+  }
+
+  .link-arrow:hover svg {
+    @apply translate-x-1;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .bg-grain {
+    background-image: radial-gradient(rgba(84, 23, 45, 0.055) 1px, transparent 1px);
+    background-size: 18px 18px;
+  }
+  .mask-fade-b {
+    mask-image: linear-gradient(to bottom, black 70%, transparent 100%);
+  }
+  .clip-arch {
+    clip-path: ellipse(78% 92% at 50% 42%);
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "g-01",
+    "title": "Composite bonding refinement",
+    "category": "Smile Makeovers",
+    "image": "/images/smile-woman-2.jpg",
+    "description": "Illustrative example of a bright, natural smile result. Not a genuine patient case.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-02",
+    "title": "Conservative smile design",
+    "category": "Smile Makeovers",
+    "image": "/images/smile-woman-5.jpg",
+    "description": "Illustrative smile composition used to demonstrate styling. Not a genuine patient case.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-03",
+    "title": "Restored confidence",
+    "category": "Smile Makeovers",
+    "image": "/images/smile-man-1.jpg",
+    "description": "Illustrative portrait representing a completed smile makeover. Not a genuine patient case.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-04",
+    "title": "Professional whitening",
+    "category": "Teeth Whitening",
+    "image": "/images/smile-woman-1.jpg",
+    "description": "Illustrative representation of a whitening outcome. Individual results vary.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-05",
+    "title": "Brighter, natural tone",
+    "category": "Teeth Whitening",
+    "image": "/images/smile-woman-3.jpg",
+    "description": "Illustrative representation of a whitening outcome. Individual results vary.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-06",
+    "title": "Everyday smile care",
+    "category": "Teeth Whitening",
+    "image": "/images/smile-beach.jpg",
+    "description": "Lifestyle image illustrating the confidence associated with a brighter smile.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-07",
+    "title": "Implant planning models",
+    "category": "Dental Implants",
+    "image": "/images/aligner-model.jpg",
+    "description": "Laboratory model used to illustrate restorative planning. Not a patient photograph.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-08",
+    "title": "Custom prosthesis design",
+    "category": "Dental Implants",
+    "image": "/images/denture-model.jpg",
+    "description": "Illustrative model showing custom prosthesis design. Not a patient photograph.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-09",
+    "title": "Precision instrumentation",
+    "category": "Dental Implants",
+    "image": "/images/tech-instruments.jpg",
+    "description": "Sterilised instruments prepared for a restorative procedure.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-10",
+    "title": "Aligner planning cast",
+    "category": "Orthodontics",
+    "image": "/images/aligner-model-2.jpg",
+    "description": "Illustrative aligner planning model used for demonstration.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-11",
+    "title": "Clinical precision",
+    "category": "Orthodontics",
+    "image": "/images/detail-mirror.jpg",
+    "description": "Close-up of a dental mirror in a clinical setting.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-12",
+    "title": "Confident alignment",
+    "category": "Orthodontics",
+    "image": "/images/smile-woman-4.jpg",
+    "description": "Illustrative portrait representing orthodontic confidence.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-13",
+    "title": "Natural cosmetic result",
+    "category": "Cosmetic Dentistry",
+    "image": "/images/smile-woman-6.jpg",
+    "description": "Illustrative portrait representing a cosmetic dentistry outcome.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-14",
+    "title": "A shared smile",
+    "category": "Cosmetic Dentistry",
+    "image": "/images/smile-group.jpg",
+    "description": "Lifestyle image celebrating healthy, confident smiles.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-15",
+    "title": "Comfortable care",
+    "category": "Cosmetic Dentistry",
+    "image": "/images/hero-care.jpg",
+    "description": "Patient receiving a comfortable, unhurried consultation.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-16",
+    "title": "Treatment suite",
+    "category": "Clinic Interiors",
+    "image": "/images/clinic-chair.jpg",
+    "description": "Our treatment suite, prepared for the next appointment.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "g-17",
+    "title": "Natural light and calm",
+    "category": "Clinic Interiors",
+    "image": "/images/clinic-interior-bright.jpg",
+    "description": "A bright, uncluttered treatment room designed to feel calm.",
+    "isIllustrative": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "g-18",
+    "title": "Clinical team at work",
+    "category": "Clinic Interiors",
+    "image": "/images/clinic-office.jpg",
+    "description": "A member of the clinical team in the treatment suite.",
+    "isIllustrative": true,
+    "featured": false,
+    "active": true
+  }
+]

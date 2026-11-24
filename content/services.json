@@ -1,0 +1,1702 @@
+[
+  {
+    "slug": "general-dentistry",
+    "name": "General Dentistry",
+    "category": "General Care",
+    "icon": "Stethoscope",
+    "image": "/images/treatment-general.jpg",
+    "tagline": "The foundation of lifelong oral health",
+    "summary": "Comprehensive examinations, preventive advice and everyday dental care for the whole family, delivered with a calm and unhurried approach.",
+    "duration": "30–60 minutes",
+    "featured": true,
+    "intro": [
+      "General dentistry is the ongoing care that keeps your mouth healthy between major treatments. It brings together examinations, diagnostic imaging, preventive guidance and simple restorative work under one roof, so nothing about your oral health is left to guesswork.",
+      "At Aurelia Dental Studio, every general appointment begins with listening. We review your medical history, discuss any concerns and complete a thorough clinical assessment before recommending anything at all."
+    ],
+    "involves": [
+      "A full examination of your teeth, gums, bite and soft tissues",
+      "Low-dose digital X-rays where clinically indicated",
+      "Professional cleaning and polishing when appropriate",
+      "A written summary of findings and a clear, prioritised treatment plan",
+      "Preventive advice tailored to your diet, lifestyle and medical history"
+    ],
+    "reasons": [
+      "You are due a routine check-up or have not seen a dentist in a while",
+      "You notice sensitivity, discomfort or a change in your gums",
+      "You would like a second opinion on a proposed treatment plan",
+      "You are new to the area and looking for a long-term dental home"
+    ],
+    "benefits": [
+      {
+        "title": "Early detection",
+        "text": "Small issues are far easier to manage when they are identified before they become painful or complex."
+      },
+      {
+        "title": "One consistent team",
+        "text": "Your records, history and preferences stay with one clinical team who know your smile."
+      },
+      {
+        "title": "Clear priorities",
+        "text": "You leave with an honest picture of what is urgent, what can wait and what is simply cosmetic."
+      }
+    ],
+    "process": [
+      {
+        "title": "Consultation",
+        "text": "We discuss your history, concerns and goals, then examine your teeth and gums in detail."
+      },
+      {
+        "title": "Diagnostics",
+        "text": "Digital X-rays or photographs are taken only where they will add useful information."
+      },
+      {
+        "title": "Your plan",
+        "text": "Findings are explained in plain language, with options, timelines and costs set out clearly."
+      },
+      {
+        "title": "Ongoing care",
+        "text": "We agree a recall interval that suits your risk profile rather than a one-size-fits-all schedule."
+      }
+    ],
+    "technology": [
+      "Low-dose digital radiography with images reviewed chairside",
+      "Intraoral photography to help you see exactly what we see",
+      "Electronic clinical records with a full treatment history"
+    ],
+    "faqs": [
+      {
+        "q": "How often should I have a check-up?",
+        "a": "Most adults benefit from a check-up every six to twelve months, but the right interval depends on your gum health, decay risk and medical history. We will recommend a recall period and explain why."
+      },
+      {
+        "q": "Will I need X-rays every visit?",
+        "a": "No. Radiographs are only taken when there is a clinical reason and are kept to the minimum necessary, in line with good diagnostic practice."
+      },
+      {
+        "q": "Can I bring my children to the same appointment?",
+        "a": "Often yes. Family appointments can usually be arranged together — please mention this when booking so we can allow enough time."
+      }
+    ],
+    "related": [
+      "preventive-dentistry",
+      "dental-cleaning-and-scaling",
+      "gum-treatment"
+    ],
+    "active": true
+  },
+  {
+    "slug": "dental-implants",
+    "name": "Dental Implants",
+    "category": "Restorative",
+    "icon": "Anchor",
+    "image": "/images/denture-model.jpg",
+    "tagline": "A considered replacement for missing teeth",
+    "summary": "Titanium implants can replace one tooth, several teeth or a full arch, restoring comfort, function and confidence when a tooth cannot be saved.",
+    "duration": "60–120 minutes per stage",
+    "featured": true,
+    "intro": [
+      "A dental implant is a small titanium post placed into the jawbone to support a crown, bridge or denture. It is one of several options for replacing missing teeth, and suitability always depends on bone volume, gum health, medical history and your own priorities.",
+      "We plan implant treatment digitally and explain the alternatives honestly, including the option of no treatment. Not every patient is a candidate, and we will tell you clearly if an implant is unlikely to be the right choice for you."
+    ],
+    "involves": [
+      "A detailed assessment including 3D imaging and bone evaluation",
+      "A written plan covering staged visits, healing time and aftercare",
+      "Placement of the implant under local anaesthetic, with sedation options discussed",
+      "A healing period before the final crown or bridge is fitted",
+      "Review appointments to check integration and gum health"
+    ],
+    "reasons": [
+      "A single tooth is missing and you would prefer not to prepare neighbouring teeth",
+      "You wear a removable denture and would like more stability",
+      "A tooth is badly fractured or infected and cannot be predictably saved",
+      "You want to discuss all replacement options before deciding"
+    ],
+    "benefits": [
+      {
+        "title": "Independent support",
+        "text": "Unlike a conventional bridge, an implant does not rely on altering the adjacent teeth."
+      },
+      {
+        "title": "Bone preservation",
+        "text": "Replacing a root can help maintain the bone that would otherwise resorb over time."
+      },
+      {
+        "title": "Stability",
+        "text": "Many patients find fixed implant restorations feel more secure than a removable prosthesis."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assessment",
+        "text": "We evaluate bone volume, gum health and medical factors, and take a 3D scan."
+      },
+      {
+        "title": "Planning",
+        "text": "The implant position is planned digitally and the sequence, risks and costs are agreed in advance."
+      },
+      {
+        "title": "Placement",
+        "text": "The implant is placed under local anaesthetic, usually as a single visit."
+      },
+      {
+        "title": "Restoration",
+        "text": "After healing, a custom crown, bridge or overdenture is designed and fitted."
+      }
+    ],
+    "technology": [
+      "Cone beam CT (CBCT) imaging for bone and nerve assessment",
+      "Digital implant planning and surgical guides where indicated",
+      "Intraoral scanning for precise, comfortable impressions"
+    ],
+    "faqs": [
+      {
+        "q": "Is implant placement painful?",
+        "a": "The procedure is carried out under local anaesthetic, so it should not be painful while it is happening. Most patients report mild soreness for a few days afterwards, which is usually manageable with ordinary pain relief."
+      },
+      {
+        "q": "How long does the whole process take?",
+        "a": "Healing commonly takes several months before the final restoration, although timelines vary considerably between patients. Some cases can be planned differently; we will give you a realistic estimate at assessment."
+      },
+      {
+        "q": "What if I don't have enough bone?",
+        "a": "Bone grafting or a different replacement option may be possible. This is assessed case by case, and we will refer for specialist input where that is in your best interests."
+      }
+    ],
+    "related": [
+      "dental-crowns-and-bridges",
+      "dentures",
+      "full-mouth-rehabilitation"
+    ],
+    "active": true
+  },
+  {
+    "slug": "root-canal-treatment",
+    "name": "Root Canal Treatment",
+    "category": "Restorative",
+    "icon": "Activity",
+    "image": "/images/treatment-rct.jpg",
+    "tagline": "Saving a tooth that would otherwise be lost",
+    "summary": "Root canal treatment removes infected tissue from inside a tooth, relieving pain and allowing the tooth to be restored rather than extracted.",
+    "duration": "60–90 minutes, sometimes across two visits",
+    "featured": true,
+    "intro": [
+      "Inside every tooth is a canal system containing pulp — nerves, blood vessels and connective tissue. When that tissue becomes infected or irreversibly inflamed, the tooth can be painful, tender to bite on or develop an abscess.",
+      "Root canal treatment cleans and seals the canal system so the tooth can remain in place. It is usually a comfortable, routine procedure with modern anaesthesia and magnification, and it is often preferable to extraction when the tooth is restorable."
+    ],
+    "involves": [
+      "A diagnosis supported by examination and focused X-rays",
+      "Complete isolation of the tooth with a rubber dam",
+      "Removal of infected pulp and careful shaping of the canals",
+      "Disinfection and sealing of the canal system",
+      "A permanent filling or crown to protect the tooth afterwards"
+    ],
+    "reasons": [
+      "Persistent toothache, especially waking you at night",
+      "Sharp pain or lingering sensitivity to hot and cold",
+      "Tenderness when biting or a swollen, tender gum near a tooth",
+      "A deep cavity or trauma that has reached the pulp"
+    ],
+    "benefits": [
+      {
+        "title": "Retain your natural tooth",
+        "text": "Keeping your own tooth can preserve your bite and avoid the need for a replacement."
+      },
+      {
+        "title": "Relief from infection",
+        "text": "Removing infected tissue addresses the source of pain rather than simply masking it."
+      },
+      {
+        "title": "Predictable restoration",
+        "text": "Once sealed and protected, a well-treated tooth can function for many years."
+      }
+    ],
+    "process": [
+      {
+        "title": "Diagnosis",
+        "text": "We confirm which tooth is responsible and assess whether it can be predictably treated."
+      },
+      {
+        "title": "Comfort",
+        "text": "The tooth is thoroughly numbed and isolated so the working area stays clean and dry."
+      },
+      {
+        "title": "Treatment",
+        "text": "Canals are cleaned, shaped, disinfected and sealed, often over one or two visits."
+      },
+      {
+        "title": "Protection",
+        "text": "A permanent restoration or crown is placed, and we review healing at a follow-up."
+      }
+    ],
+    "technology": [
+      "Apex locators to measure canal length accurately",
+      "Rotary endodontic instrumentation and magnification",
+      "Digital radiography to verify the seal before restoration"
+    ],
+    "faqs": [
+      {
+        "q": "Will the tooth need a crown afterwards?",
+        "a": "Often yes, particularly for back teeth or heavily broken-down teeth. A crown helps protect the tooth from fracture. We will advise on the specific tooth."
+      },
+      {
+        "q": "Is one visit enough?",
+        "a": "Some teeth can be completed in one appointment; others benefit from a second visit to ensure the canals are clean and quiet. This depends on the infection and anatomy."
+      },
+      {
+        "q": "What happens if I delay treatment?",
+        "a": "Infection can spread, pain can worsen and the tooth may eventually become unsalvageable. If you are in discomfort, please contact us promptly."
+      }
+    ],
+    "related": [
+      "dental-crowns-and-bridges",
+      "tooth-extraction",
+      "emergency-dental-care"
+    ],
+    "active": true
+  },
+  {
+    "slug": "teeth-whitening",
+    "name": "Teeth Whitening",
+    "category": "Cosmetic",
+    "icon": "Sparkles",
+    "image": "/images/smile-woman-5.jpg",
+    "tagline": "A brighter smile, thoughtfully planned",
+    "summary": "Professional whitening can lift staining and brighten natural tooth colour, with a custom plan designed to suit your enamel, gums and expectations.",
+    "duration": "45–90 minutes in clinic, or a supervised home course",
+    "featured": true,
+    "intro": [
+      "Whitening works by using a peroxide-based gel to break down stain molecules within the tooth structure. It is a cosmetic treatment, so it changes colour rather than shape or alignment, and results vary between individuals.",
+      "We assess your teeth and gums first, because untreated decay, exposed roots or gum inflammation can make whitening uncomfortable or unsuitable. We will also discuss realistic expectations and the maintenance that keeps results looking their best."
+    ],
+    "involves": [
+      "A pre-whitening examination and shade assessment",
+      "Custom trays or an in-clinic application, depending on the plan",
+      "Protection of gums and soft tissues throughout",
+      "A tailored strength and duration to limit sensitivity",
+      "A review to assess the result and discuss maintenance"
+    ],
+    "reasons": [
+      "Everyday staining from coffee, tea, red wine or tobacco",
+      "A special occasion or wedding where you want a fresher smile",
+      "Yellowing that has developed gradually with age",
+      "You want to try a conservative option before considering veneers"
+    ],
+    "benefits": [
+      {
+        "title": "Conservative",
+        "text": "No tooth structure is removed, making whitening one of the least invasive cosmetic options."
+      },
+      {
+        "title": "Customised",
+        "text": "Tray fit and gel strength are tailored to your teeth and sensitivity levels."
+      },
+      {
+        "title": "Supervised",
+        "text": "Your gums and enamel are checked before and after, rather than relying on unregulated kits."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assessment",
+        "text": "We check for decay, gum health and existing restorations that may not whiten."
+      },
+      {
+        "title": "Planning",
+        "text": "We agree whether in-clinic, home or combined whitening suits you best."
+      },
+      {
+        "title": "Whitening",
+        "text": "Gel is applied according to a controlled protocol, with sensitivity monitored throughout."
+      },
+      {
+        "title": "Maintenance",
+        "text": "We review the shade and share practical advice to prolong the result."
+      }
+    ],
+    "technology": [
+      "Custom-moulded whitening trays for even gel distribution",
+      "Shade photography to track change objectively",
+      "Desensitising protocols for patients prone to sensitivity"
+    ],
+    "faqs": [
+      {
+        "q": "Will whitening damage my enamel?",
+        "a": "When supervised and used as directed, professional whitening is considered safe for healthy teeth. We screen for decay, cracks and gum problems first, as these need treatment before whitening."
+      },
+      {
+        "q": "How long do results last?",
+        "a": "This varies with diet, smoking and oral hygiene. Many patients choose periodic top-ups; we can advise on a realistic maintenance rhythm."
+      },
+      {
+        "q": "Will crowns or fillings change colour?",
+        "a": "No — restorations do not whiten like natural tooth structure. We will discuss whether they need replacing or whether a different approach would give a more even result."
+      }
+    ],
+    "related": [
+      "cosmetic-dentistry",
+      "dental-veneers",
+      "smile-makeovers"
+    ],
+    "active": true
+  },
+  {
+    "slug": "dental-veneers",
+    "name": "Dental Veneers",
+    "category": "Cosmetic",
+    "icon": "Layers",
+    "image": "/images/smile-5.jpg",
+    "tagline": "Refined shape, shade and symmetry",
+    "summary": "Thin custom restorations bonded to the front of teeth can improve colour, shape and minor irregularities — with careful design and conservative preparation.",
+    "duration": "Two to three visits",
+    "featured": true,
+    "intro": [
+      "Veneers are thin layers of ceramic or composite bonded to the front surface of teeth. They can address discolouration, small chips, uneven edges and minor spacing, but they are not a substitute for orthodontic treatment when the bite is the real issue.",
+      "Good veneer work is as much about planning as it is about the material. We design around your face, your natural tooth proportions and the way you speak and smile, and we will always discuss more conservative alternatives first."
+    ],
+    "involves": [
+      "A smile assessment, photographs and a discussion of your goals",
+      "A digital or wax-up design to preview proportions",
+      "Minimal or no preparation of the enamel, depending on the case",
+      "Precise impressions or intraoral scans and temporary restorations",
+      "Bonding of the final veneers with careful bite adjustment"
+    ],
+    "reasons": [
+      "Intrinsic staining that whitening cannot improve",
+      "Chipped, worn or slightly irregular front teeth",
+      "Small gaps or a subtly uneven smile line",
+      "You want a durable, natural-looking improvement in shape"
+    ],
+    "benefits": [
+      {
+        "title": "Natural appearance",
+        "text": "Modern ceramics can mimic the translucency and texture of enamel closely."
+      },
+      {
+        "title": "Stain resistance",
+        "text": "Glazed ceramic surfaces resist everyday staining better than natural enamel."
+      },
+      {
+        "title": "Conservative design",
+        "text": "Where appropriate, we plan minimal-preparation veneers to preserve tooth structure."
+      }
+    ],
+    "process": [
+      {
+        "title": "Design",
+        "text": "We photograph, measure and discuss shape, shade and proportion before touching a tooth."
+      },
+      {
+        "title": "Preview",
+        "text": "A trial smile or digital mock-up helps you visualise the result and refine it."
+      },
+      {
+        "title": "Preparation",
+        "text": "Teeth are prepared conservatively and temporary veneers are fitted."
+      },
+      {
+        "title": "Bonding",
+        "text": "The final ceramics are tried in, adjusted and bonded, with a review to check comfort."
+      }
+    ],
+    "technology": [
+      "Intraoral scanning for precise digital impressions",
+      "Digital smile design and photographic shade matching",
+      "Ceramic bonded by an experienced technical laboratory"
+    ],
+    "faqs": [
+      {
+        "q": "Do veneers require my teeth to be filed down?",
+        "a": "Not always. Some cases allow minimal or no preparation, while others need a small amount of enamel reduction for the ceramic to sit naturally. This is decided at assessment."
+      },
+      {
+        "q": "How long do veneers last?",
+        "a": "With good hygiene and a protective night guard where needed, ceramic veneers can last many years. Longevity depends on your bite, habits and maintenance."
+      },
+      {
+        "q": "Are veneers reversible?",
+        "a": "If enamel has been removed, the process is not fully reversible. That is one reason we explore whitening, bonding or orthodontics first where they could achieve your goal."
+      }
+    ],
+    "related": [
+      "cosmetic-dentistry",
+      "smile-makeovers",
+      "teeth-whitening"
+    ],
+    "active": true
+  },
+  {
+    "slug": "dental-crowns-and-bridges",
+    "name": "Dental Crowns & Bridges",
+    "category": "Restorative",
+    "icon": "Crown",
+    "image": "/images/treatment-general.jpg",
+    "tagline": "Strength and shape for compromised teeth",
+    "summary": "Crowns protect and rebuild damaged teeth, while bridges replace one or more missing teeth by using neighbouring teeth for support.",
+    "duration": "Two visits, typically two weeks apart",
+    "featured": false,
+    "intro": [
+      "A crown is a custom cover that fits over a prepared tooth, restoring its shape, strength and appearance. It is often recommended after root canal treatment, for a large fracture, or when a tooth has too little structure left for a filling to hold reliably.",
+      "A bridge replaces missing teeth by anchoring a false tooth to crowns on the adjacent teeth. It remains a useful option where implants are unsuitable, although it does involve preparing healthy neighbouring teeth."
+    ],
+    "involves": [
+      "Assessment of the tooth, bite and gum health",
+      "Conservative preparation of the tooth under local anaesthetic",
+      "A digital scan or impression and a temporary restoration",
+      "Custom fabrication by a dental laboratory",
+      "Fitting, bite adjustment and cementation of the final restoration"
+    ],
+    "reasons": [
+      "A tooth is cracked, heavily filled or weakened after root canal treatment",
+      "You need to replace one or more missing teeth",
+      "A large filling has failed and there is insufficient tooth left",
+      "You want to restore chewing comfort on one side"
+    ],
+    "benefits": [
+      {
+        "title": "Protection",
+        "text": "A crown can hold a weakened tooth together and reduce the risk of further fracture."
+      },
+      {
+        "title": "Function",
+        "text": "Chewing and biting comfort are usually improved once the restoration is properly shaped."
+      },
+      {
+        "title": "Aesthetics",
+        "text": "Modern ceramics can be matched closely to the surrounding teeth."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assessment",
+        "text": "We confirm the tooth is restorable and discuss crown, onlay or alternative options."
+      },
+      {
+        "title": "Preparation",
+        "text": "The tooth is shaped, scanned and fitted with a well-made temporary."
+      },
+      {
+        "title": "Crafting",
+        "text": "The laboratory makes the restoration to your shade and bite requirements."
+      },
+      {
+        "title": "Fit",
+        "text": "We check fit, colour and comfort, adjust the bite and cement the crown or bridge."
+      }
+    ],
+    "technology": [
+      "Intraoral scanning for accurate, comfortable impressions",
+      "Digital shade matching and photography",
+      "Bite analysis to reduce post-treatment discomfort"
+    ],
+    "faqs": [
+      {
+        "q": "Will a crown feel like my own tooth?",
+        "a": "Most patients adapt within a few days. The shape is designed to fit your bite, and we adjust it at fitting if anything feels high."
+      },
+      {
+        "q": "How do I care for a bridge?",
+        "a": "A bridge needs cleaning underneath as well as around the supporting teeth. We will show you the specific brushes and floss threaders that make this straightforward."
+      },
+      {
+        "q": "Is a bridge better than an implant?",
+        "a": "They suit different situations. A bridge is often quicker and avoids surgery, while an implant avoids preparing adjacent teeth. We will compare both for your case."
+      }
+    ],
+    "related": [
+      "dental-implants",
+      "root-canal-treatment",
+      "dentures"
+    ],
+    "active": true
+  },
+  {
+    "slug": "orthodontics",
+    "name": "Orthodontics",
+    "category": "Orthodontics",
+    "icon": "AlignCenter",
+    "image": "/images/treatment-ortho.jpg",
+    "tagline": "A healthier bite, not just straighter teeth",
+    "summary": "Orthodontic treatment corrects crowding, spacing and bite problems using braces or aligners, planned around your facial profile and long-term stability.",
+    "duration": "6–24 months, depending on complexity",
+    "featured": true,
+    "intro": [
+      "Orthodontics is about more than appearance. Misaligned teeth can be harder to clean, wear unevenly and place stress on the jaw. Correcting the bite can improve function, hygiene access and confidence.",
+      "We offer a range of systems, from discreet clear aligners to fixed braces, and we will recommend the approach that best fits your clinical needs rather than the one that is simplest to sell."
+    ],
+    "involves": [
+      "A full orthodontic assessment with photographs, scans and X-rays",
+      "A written plan explaining options, likely duration and limitations",
+      "Regular adjustment or aligner review appointments",
+      "Monitoring of gum health and oral hygiene throughout",
+      "Retention planning to protect the result after treatment"
+    ],
+    "reasons": [
+      "Crowded or overlapping teeth that are difficult to clean",
+      "Gaps or spacing that affect confidence or function",
+      "An overbite, underbite or crossbite affecting the bite",
+      "Relapse after previous orthodontic treatment"
+    ],
+    "benefits": [
+      {
+        "title": "Improved hygiene",
+        "text": "Straighter teeth are often easier to brush and floss effectively."
+      },
+      {
+        "title": "Bite comfort",
+        "text": "Correcting alignment can reduce uneven wear and jaw strain in suitable cases."
+      },
+      {
+        "title": "Confidence",
+        "text": "Many patients feel more comfortable smiling once their alignment is improved."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assessment",
+        "text": "We record your bite, alignment and facial profile and discuss your goals."
+      },
+      {
+        "title": "Planning",
+        "text": "A treatment plan and simulation are prepared, with alternatives explained."
+      },
+      {
+        "title": "Active treatment",
+        "text": "Braces or aligners are fitted and reviewed at planned intervals."
+      },
+      {
+        "title": "Retention",
+        "text": "Removable retainers or a fixed wire are used to hold the new position."
+      }
+    ],
+    "technology": [
+      "Digital scanning and 3D treatment simulation",
+      "Clear aligner planning software where suitable",
+      "Photographic progress tracking at each review"
+    ],
+    "faqs": [
+      {
+        "q": "Am I too old for orthodontics?",
+        "a": "No. Many adults choose orthodontic treatment, and healthy gums and bone are the main requirements. We will assess your suitability carefully."
+      },
+      {
+        "q": "Are clear aligners as effective as braces?",
+        "a": "For many cases, yes — but complex bite corrections may be better managed with fixed braces. The right choice depends on your specific movement requirements."
+      },
+      {
+        "q": "Will I need to wear a retainer forever?",
+        "a": "Teeth can drift throughout life, so long-term retention is usually advised. Many patients wear a retainer at night indefinitely."
+      }
+    ],
+    "related": [
+      "clear-aligners",
+      "braces",
+      "smile-makeovers"
+    ],
+    "active": true
+  },
+  {
+    "slug": "clear-aligners",
+    "name": "Clear Aligners",
+    "category": "Orthodontics",
+    "icon": "ScanLine",
+    "image": "/images/treatment-implant.jpg",
+    "tagline": "Discreet alignment, carefully monitored",
+    "summary": "A series of custom clear trays gradually moves teeth into a planned position, offering a removable and less visible alternative to fixed braces.",
+    "duration": "6–18 months on average",
+    "featured": true,
+    "intro": [
+      "Clear aligners are removable, transparent trays that apply controlled force to move teeth in small increments. They are popular because they are less visible than braces and can be removed for eating and cleaning.",
+      "Aligners rely on consistent wear — typically 20 to 22 hours a day — and on regular clinical review. They are not suitable for every bite problem, so we assess the required movements before recommending them."
+    ],
+    "involves": [
+      "A 3D scan and digital treatment simulation",
+      "Custom aligners manufactured in stages",
+      "Clear instructions on wear time and tray changes",
+      "Review appointments to check fit and progress",
+      "Retainers to stabilise the result afterwards"
+    ],
+    "reasons": [
+      "Mild to moderate crowding or spacing",
+      "You want a less visible option for professional or social reasons",
+      "You have worn braces before and experienced relapse",
+      "You prefer a removable appliance for eating and cleaning"
+    ],
+    "benefits": [
+      {
+        "title": "Discreet",
+        "text": "Clear trays are far less noticeable than metal brackets and wires."
+      },
+      {
+        "title": "Removable",
+        "text": "You can eat and clean your teeth normally by removing the aligners."
+      },
+      {
+        "title": "Planned",
+        "text": "Digital simulation lets you preview the intended movement before starting."
+      }
+    ],
+    "process": [
+      {
+        "title": "Scan",
+        "text": "We scan your teeth and plan the sequence of movements digitally."
+      },
+      {
+        "title": "Fabrication",
+        "text": "Your custom aligners are produced and checked for fit."
+      },
+      {
+        "title": "Wear",
+        "text": "You change trays on schedule, wearing them for the agreed hours each day."
+      },
+      {
+        "title": "Review",
+        "text": "We monitor progress, refine if needed and finish with retainers."
+      }
+    ],
+    "technology": [
+      "Intraoral 3D scanning",
+      "Digital aligner planning with staged simulations",
+      "Remote photo monitoring between in-person reviews where appropriate"
+    ],
+    "faqs": [
+      {
+        "q": "How many hours a day must I wear them?",
+        "a": "Usually around 20 to 22 hours, removing them only to eat, drink anything other than water, and clean your teeth. Less wear can lengthen treatment or reduce predictability."
+      },
+      {
+        "q": "Will aligners affect my speech?",
+        "a": "Some patients notice a slight lisp for the first few days with a new tray. This normally settles as you adapt."
+      },
+      {
+        "q": "Can aligners fix a deep overbite?",
+        "a": "Some bite issues can be improved, but complex skeletal or severe bite problems may need fixed braces or specialist input. We will be clear about what aligners can and cannot achieve."
+      }
+    ],
+    "related": [
+      "orthodontics",
+      "braces",
+      "smile-makeovers"
+    ],
+    "active": true
+  },
+  {
+    "slug": "braces",
+    "name": "Braces",
+    "category": "Orthodontics",
+    "icon": "Grid2x2",
+    "image": "/images/treatment-ortho.jpg",
+    "tagline": "Reliable control for complex movement",
+    "summary": "Fixed braces use brackets and wires to guide teeth with a high degree of control, and remain the gold standard for many complex bite corrections.",
+    "duration": "12–24 months, depending on complexity",
+    "featured": false,
+    "intro": [
+      "Fixed braces are attached to the teeth for the duration of treatment and adjusted at planned intervals. They offer precise control over tooth movement and are often the most predictable choice for complex crowding or bite correction.",
+      "Modern options include metal and ceramic brackets, and some systems use clear ligatures or self-ligating designs. We will explain the practical differences, including comfort and visibility, rather than presenting one option as universally best."
+    ],
+    "involves": [
+      "Orthodontic records and a detailed treatment plan",
+      "Bonding of brackets and placement of the initial wire",
+      "Regular adjustment visits every four to eight weeks",
+      "Careful oral hygiene support throughout treatment",
+      "Debonding, polishing and retention at the end"
+    ],
+    "reasons": [
+      "Complex crowding or rotations that aligners may not control reliably",
+      "Bite problems requiring precise three-dimensional movement",
+      "You prefer a fixed appliance that does not depend on daily wear time",
+      "Previous aligner treatment has not achieved the planned result"
+    ],
+    "benefits": [
+      {
+        "title": "Control",
+        "text": "Fixed appliances allow precise management of rotation, torque and bite relationships."
+      },
+      {
+        "title": "Consistency",
+        "text": "Because they stay in place, results do not depend on remembering to wear a tray."
+      },
+      {
+        "title": "Proven",
+        "text": "Braces have a long, well-documented record across a wide range of cases."
+      }
+    ],
+    "process": [
+      {
+        "title": "Records",
+        "text": "We take photographs, scans and radiographs to plan the movement."
+      },
+      {
+        "title": "Bonding",
+        "text": "Brackets are positioned precisely and the first wire is engaged."
+      },
+      {
+        "title": "Adjustments",
+        "text": "Wires are changed progressively, with comfort and hygiene reviewed each visit."
+      },
+      {
+        "title": "Finish",
+        "text": "Brackets are removed, teeth are polished and retainers are fitted."
+      }
+    ],
+    "technology": [
+      "Indirect bonding techniques for precise bracket placement",
+      "Digital treatment planning and progress photography",
+      "Self-ligating and aesthetic bracket options"
+    ],
+    "faqs": [
+      {
+        "q": "Do braces hurt?",
+        "a": "Fitting is usually comfortable. You should expect some tenderness for a few days after fitting and after adjustments, which typically settles with soft food and ordinary pain relief."
+      },
+      {
+        "q": "Can I still play sport?",
+        "a": "Yes, although a properly fitted mouthguard is strongly advised for contact sports. We can discuss options that work alongside braces."
+      },
+      {
+        "q": "How often are adjustments needed?",
+        "a": "Usually every four to eight weeks. The exact interval depends on the system and the stage of treatment."
+      }
+    ],
+    "related": [
+      "orthodontics",
+      "clear-aligners",
+      "pediatric-dentistry"
+    ],
+    "active": true
+  },
+  {
+    "slug": "pediatric-dentistry",
+    "name": "Pediatric Dentistry",
+    "category": "Children",
+    "icon": "Baby",
+    "image": "/images/clinic-interior-2.jpg",
+    "tagline": "A calm first experience that builds confidence",
+    "summary": "Gentle, age-appropriate dental care for children, with a focus on prevention, positive visits and teaching habits that last a lifetime.",
+    "duration": "20–45 minutes",
+    "featured": true,
+    "intro": [
+      "Children's dentistry is as much about behaviour and confidence as it is about teeth. A first visit that feels safe and unhurried can shape how a child feels about dental care for years.",
+      "We use clear, child-friendly explanations, tell-show-do techniques and plenty of praise. Parents are welcome alongside their child, and we will always explain what we are doing before we do it."
+    ],
+    "involves": [
+      "A gentle examination appropriate to the child's age and cooperation",
+      "Fluoride varnish or fissure sealants where clinically indicated",
+      "Diet and brushing guidance for parents and carers",
+      "Monitoring of development and eruption patterns",
+      "Referral for specialist orthodontic assessment when the time is right"
+    ],
+    "reasons": [
+      "A first dental visit, usually recommended from around age one",
+      "Discomfort, a chipped tooth or a suspected cavity",
+      "Advice on thumb-sucking, dummies or nighttime bottles",
+      "A referral from a school or health visitor"
+    ],
+    "benefits": [
+      {
+        "title": "Prevention first",
+        "text": "Early guidance can reduce the need for treatment later."
+      },
+      {
+        "title": "Positive association",
+        "text": "We build trust gradually, without pressure or restraint."
+      },
+      {
+        "title": "Parent partnership",
+        "text": "You leave with practical, realistic advice for home."
+      }
+    ],
+    "process": [
+      {
+        "title": "Meet",
+        "text": "The child is introduced to the chair, instruments and team at their own pace."
+      },
+      {
+        "title": "Examine",
+        "text": "We check teeth, gums and development using the least invasive approach necessary."
+      },
+      {
+        "title": "Prevent",
+        "text": "Sealants or fluoride may be applied, and we agree a recall interval."
+      },
+      {
+        "title": "Coach",
+        "text": "We show brushing and dietary habits that work for your family."
+      }
+    ],
+    "technology": [
+      "Child-sized instruments and a friendly, familiar environment",
+      "Digital X-rays only when clinically justified",
+      "Visual teaching aids to explain brushing and decay"
+    ],
+    "faqs": [
+      {
+        "q": "When should my child first see a dentist?",
+        "a": "Around the first birthday, or when the first teeth appear. Early visits are short and mainly about familiarisation and prevention."
+      },
+      {
+        "q": "What if my child is anxious?",
+        "a": "Tell us in advance. We can schedule a longer, quieter appointment and use a gradual approach. We never rush a child who needs more time."
+      },
+      {
+        "q": "Are baby teeth really important?",
+        "a": "Yes. They help with speech, chewing and jaw development, and they hold space for adult teeth. Early decay can affect the adult teeth developing underneath."
+      }
+    ],
+    "related": [
+      "preventive-dentistry",
+      "orthodontics",
+      "emergency-dental-care"
+    ],
+    "active": true
+  },
+  {
+    "slug": "wisdom-tooth-removal",
+    "name": "Wisdom Tooth Removal",
+    "category": "Surgical",
+    "icon": "Scissors",
+    "image": "/images/tech-instruments.jpg",
+    "tagline": "Careful assessment before any extraction",
+    "summary": "Impacted or problematic wisdom teeth can be assessed and, where necessary, removed with careful planning and clear aftercare.",
+    "duration": "45–90 minutes",
+    "featured": false,
+    "intro": [
+      "Wisdom teeth are the last molars to develop and often have insufficient space to erupt normally. Some cause no trouble at all; others become impacted, trap food or irritate the gum, which can lead to repeated infection.",
+      "Removal is not automatic. We assess symptoms, X-ray findings, root anatomy and your overall health before recommending surgery, and we explain the alternatives and risks — including the option of monitoring a symptom-free tooth."
+    ],
+    "involves": [
+      "Clinical examination and appropriate radiographic assessment",
+      "A discussion of anaesthetic and sedation options",
+      "Surgical removal under local anaesthetic, with a planned approach for impacted teeth",
+      "Written aftercare instructions and pain relief guidance",
+      "A review appointment where needed"
+    ],
+    "reasons": [
+      "Repeated or persistent infection around a partially erupted wisdom tooth",
+      "Pain, swelling or difficulty opening the mouth",
+      "Decay or gum disease affecting a wisdom tooth that cannot be cleaned",
+      "A cyst or other pathology associated with an impacted tooth"
+    ],
+    "benefits": [
+      {
+        "title": "Resolve recurrent infection",
+        "text": "Removing the source can stop repeated episodes of pain and swelling."
+      },
+      {
+        "title": "Protect neighbouring teeth",
+        "text": "A problematic wisdom tooth can damage the molar in front of it."
+      },
+      {
+        "title": "Planned approach",
+        "text": "Assessment in advance helps us choose the least traumatic technique for your anatomy."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assess",
+        "text": "We examine the tooth, the surrounding gum and the X-ray appearance."
+      },
+      {
+        "title": "Plan",
+        "text": "We discuss timing, anaesthesia, likely difficulty and aftercare before you decide."
+      },
+      {
+        "title": "Remove",
+        "text": "The tooth is removed under local anaesthetic, with sutures if required."
+      },
+      {
+        "title": "Recover",
+        "text": "You receive clear instructions and a contact route if healing does not feel right."
+      }
+    ],
+    "technology": [
+      "Digital panoramic and periapical radiography",
+      "CBCT referral where the relationship to nerves needs closer assessment",
+      "Surgical instruments designed for controlled, minimally traumatic removal"
+    ],
+    "faqs": [
+      {
+        "q": "Do all wisdom teeth need removing?",
+        "a": "No. A wisdom tooth that is healthy, fully erupted, functional and cleanable may be left alone. We only recommend removal when there is a clear clinical reason."
+      },
+      {
+        "q": "How long is recovery?",
+        "a": "Most people notice improvement within a few days, although swelling and jaw stiffness can take one to two weeks to settle fully. This varies with the complexity of the extraction."
+      },
+      {
+        "q": "Will I be awake?",
+        "a": "Most wisdom teeth are removed under local anaesthetic while you are awake. Sedation or referral for a general anaesthetic may be discussed for complex or anxious cases."
+      }
+    ],
+    "related": [
+      "tooth-extraction",
+      "emergency-dental-care",
+      "general-dentistry"
+    ],
+    "active": true
+  },
+  {
+    "slug": "tooth-extraction",
+    "name": "Tooth Extraction",
+    "category": "Surgical",
+    "icon": "CircleMinus",
+    "image": "/images/treatment-checkup.jpg",
+    "tagline": "A last resort, handled gently",
+    "summary": "When a tooth cannot be saved, a carefully planned extraction can relieve pain and protect the surrounding teeth and gums.",
+    "duration": "30–60 minutes",
+    "featured": false,
+    "intro": [
+      "We aim to keep natural teeth wherever it is reasonable to do so. Occasionally, however, a tooth is too damaged, mobile or infected to restore predictably, and extraction becomes the safest option.",
+      "The procedure is carried out under local anaesthetic with a clear explanation of what to expect. We also discuss replacement options in advance, so you are not left deciding under pressure later."
+    ],
+    "involves": [
+      "A final assessment of whether the tooth can be saved",
+      "Discussion of anaesthesia and any anxiety-management needs",
+      "Gentle removal of the tooth, with preservation of surrounding bone where possible",
+      "Bleeding control and, where appropriate, a socket preservation technique",
+      "Aftercare advice and a plan for replacing the tooth if desired"
+    ],
+    "reasons": [
+      "A tooth is fractured below the gum line and cannot be restored",
+      "Advanced decay or infection has destroyed too much tooth structure",
+      "Severe gum disease has caused irreversible mobility",
+      "A tooth is crowding others or interfering with orthodontic treatment"
+    ],
+    "benefits": [
+      {
+        "title": "Relieve symptoms",
+        "text": "Removing a non-restorable tooth can resolve pain and recurrent infection."
+      },
+      {
+        "title": "Protect the mouth",
+        "text": "An infected or fractured tooth can affect neighbouring teeth and bone."
+      },
+      {
+        "title": "Plan ahead",
+        "text": "Replacement options are discussed before removal, not after."
+      }
+    ],
+    "process": [
+      {
+        "title": "Confirm",
+        "text": "We review the tooth, radiographs and alternatives one final time."
+      },
+      {
+        "title": "Numb",
+        "text": "Local anaesthetic is administered and its effect confirmed before starting."
+      },
+      {
+        "title": "Remove",
+        "text": "The tooth is removed as gently as possible, with sutures if needed."
+      },
+      {
+        "title": "Heal",
+        "text": "We provide written aftercare and a review where appropriate."
+      }
+    ],
+    "technology": [
+      "High-resolution digital radiography",
+      "Surgical extraction instruments for controlled technique",
+      "Socket preservation materials where future implant placement is planned"
+    ],
+    "faqs": [
+      {
+        "q": "Will it hurt?",
+        "a": "The area is thoroughly numbed, so the extraction itself should not be painful. Some tenderness afterwards is normal and usually manageable with the advice we provide."
+      },
+      {
+        "q": "How soon can I have an implant?",
+        "a": "Timing varies. Some cases allow planning soon after healing, while others benefit from a graft and a longer wait. We will map this out at your assessment."
+      },
+      {
+        "q": "Can I drive home afterwards?",
+        "a": "Yes after a local anaesthetic, provided you feel well. If you choose sedation, you will need someone to accompany you."
+      }
+    ],
+    "related": [
+      "wisdom-tooth-removal",
+      "dental-implants",
+      "dental-crowns-and-bridges"
+    ],
+    "active": true
+  },
+  {
+    "slug": "gum-treatment",
+    "name": "Gum Treatment",
+    "category": "General Care",
+    "icon": "HeartPulse",
+    "image": "/images/tech-tools.jpg",
+    "tagline": "Healthy gums are the foundation",
+    "summary": "Periodontal care addresses bleeding, inflammation and gum recession, helping protect the bone that supports your teeth.",
+    "duration": "45–90 minutes per visit",
+    "featured": false,
+    "intro": [
+      "Gum disease is common and often painless in its early stages. Bleeding when brushing, persistent bad breath or gums that look puffy are signals worth investigating rather than ignoring.",
+      "Treatment begins with accurate measurement of your gum pockets and a conversation about risk factors such as smoking, diabetes and medication. Most early disease responds well to professional cleaning and improved home care, with regular review to keep it stable."
+    ],
+    "involves": [
+      "A periodontal examination with pocket depth measurements",
+      "Professional cleaning above and below the gum line",
+      "Personalised oral hygiene coaching",
+      "Review of risk factors and, where relevant, referral to a specialist",
+      "A maintenance schedule to prevent relapse"
+    ],
+    "reasons": [
+      "Gums that bleed when brushing or flossing",
+      "Persistent bad breath or a bad taste",
+      "Gums that have started to recede or look swollen",
+      "A family history of gum disease or a medical condition that increases risk"
+    ],
+    "benefits": [
+      {
+        "title": "Preserve supporting bone",
+        "text": "Controlling inflammation helps protect the bone that holds teeth in place."
+      },
+      {
+        "title": "Fresher breath",
+        "text": "Reducing bacterial load often improves breath noticeably."
+      },
+      {
+        "title": "Long-term stability",
+        "text": "A maintenance plan helps keep treatment results stable over time."
+      }
+    ],
+    "process": [
+      {
+        "title": "Measure",
+        "text": "We record pocket depths, recession and bleeding points to establish a baseline."
+      },
+      {
+        "title": "Clean",
+        "text": "Deposits are removed from above and below the gum line, usually with local anaesthetic."
+      },
+      {
+        "title": "Coach",
+        "text": "We agree a home routine that fits your dexterity, time and preferences."
+      },
+      {
+        "title": "Maintain",
+        "text": "Supportive maintenance visits are scheduled at intervals based on your risk."
+      }
+    ],
+    "technology": [
+      "Ultrasonic and hand instrumentation for thorough debridement",
+      "Periodontal charting to track change over time",
+      "Air-polishing where appropriate for stain and biofilm removal"
+    ],
+    "faqs": [
+      {
+        "q": "Is gum disease curable?",
+        "a": "Gingivitis is usually reversible with good care. Periodontitis can be controlled and stabilised, but the bone loss already sustained does not grow back on its own. Ongoing maintenance is important."
+      },
+      {
+        "q": "Why do my gums bleed?",
+        "a": "Bleeding is usually a sign of inflammation caused by plaque. It can also relate to medication, hormonal changes or systemic conditions, so an assessment is worthwhile."
+      },
+      {
+        "q": "Will treatment be uncomfortable?",
+        "a": "Deep cleaning is usually carried out with local anaesthetic. Most patients find it more comfortable than expected and report reduced soreness afterwards."
+      }
+    ],
+    "related": [
+      "dental-cleaning-and-scaling",
+      "preventive-dentistry",
+      "general-dentistry"
+    ],
+    "active": true
+  },
+  {
+    "slug": "preventive-dentistry",
+    "name": "Preventive Dentistry",
+    "category": "Preventive",
+    "icon": "ShieldCheck",
+    "image": "/images/tech-tools.jpg",
+    "tagline": "Fewer problems, fewer surprises",
+    "summary": "Preventive care is the most valuable dentistry there is — identifying risk early and building simple habits that protect your teeth.",
+    "duration": "30–45 minutes",
+    "featured": false,
+    "intro": [
+      "Much of the treatment we provide could be avoided with earlier prevention. Preventive dentistry looks at the factors that put your teeth at risk — plaque control, diet, dry mouth, grinding, smoking and medical conditions — and addresses them before damage occurs.",
+      "It is not a lecture. We work with the habits you already have and suggest changes that are realistic, specific and worth the effort."
+    ],
+    "involves": [
+      "Risk assessment for decay, gum disease and erosion",
+      "Professional cleaning and polish",
+      "Fluoride varnish or fissure sealants where indicated",
+      "Dietary and brushing technique guidance",
+      "Custom mouthguards for sport or night-time grinding"
+    ],
+    "reasons": [
+      "You want to avoid repeated fillings or more complex treatment",
+      "You have a dry mouth, acid reflux or a high-sugar diet",
+      "You play contact sports or grind your teeth at night",
+      "You are planning a cosmetic treatment and want a healthy foundation"
+    ],
+    "benefits": [
+      {
+        "title": "Less intervention",
+        "text": "Preventing decay and gum disease reduces the need for drilling, root canals and extractions."
+      },
+      {
+        "title": "Cost-effective",
+        "text": "Routine prevention is usually far less expensive than restorative treatment."
+      },
+      {
+        "title": "Comfort",
+        "text": "Healthy teeth and gums are simply more comfortable day to day."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assess risk",
+        "text": "We identify what is most likely to cause problems for you specifically."
+      },
+      {
+        "title": "Protect",
+        "text": "Sealants, fluoride or a mouthguard may be recommended where appropriate."
+      },
+      {
+        "title": "Coach",
+        "text": "We demonstrate techniques and agree one or two focused changes."
+      },
+      {
+        "title": "Review",
+        "text": "Recall intervals are set according to your risk rather than a fixed rule."
+      }
+    ],
+    "technology": [
+      "Intraoral cameras for clear, chairside explanations",
+      "Fluoride varnish and resin sealant materials",
+      "Custom-made sports and occlusal guards"
+    ],
+    "faqs": [
+      {
+        "q": "Are fissure sealants worth it?",
+        "a": "For children and adults at higher risk of decay in the grooves of back teeth, sealants can be a useful preventive measure. Suitability depends on the tooth and your risk profile."
+      },
+      {
+        "q": "Do I need a mouthguard?",
+        "a": "If you play contact sports or grind your teeth heavily, a custom guard can protect teeth and restorations. Over-the-counter guards are an alternative but fit less precisely."
+      },
+      {
+        "q": "How often should I have a professional clean?",
+        "a": "It depends on your gum health and risk factors. Some patients benefit from three-monthly maintenance, while others are fine annually."
+      }
+    ],
+    "related": [
+      "dental-cleaning-and-scaling",
+      "general-dentistry",
+      "pediatric-dentistry"
+    ],
+    "active": true
+  },
+  {
+    "slug": "dental-cleaning-and-scaling",
+    "name": "Dental Cleaning & Scaling",
+    "category": "Preventive",
+    "icon": "Brush",
+    "image": "/images/treatment-cleaning.jpg",
+    "tagline": "A fresher, healthier clean",
+    "summary": "Professional scaling and polishing removes plaque and tartar from areas that brushing alone cannot reach, leaving teeth feeling noticeably cleaner.",
+    "duration": "30–60 minutes",
+    "featured": true,
+    "intro": [
+      "Even careful brushing leaves some areas untouched, particularly between teeth and just under the gum line. Over time, plaque hardens into calculus (tartar), which cannot be removed with a toothbrush.",
+      "A professional clean removes these deposits, reduces inflammation and gives us a clear view of your teeth for examination. It is also an opportunity to check that your home routine is actually working."
+    ],
+    "involves": [
+      "Assessment of plaque, calculus and gum condition",
+      "Ultrasonic scaling above and below the gum line",
+      "Hand instrumentation for fine deposits where needed",
+      "Polishing to remove surface stain",
+      "Personalised advice on interdental cleaning"
+    ],
+    "reasons": [
+      "Visible tartar or staining",
+      "Bleeding gums or persistent bad breath",
+      "A routine maintenance visit",
+      "Before whitening, bonding or other cosmetic treatment"
+    ],
+    "benefits": [
+      {
+        "title": "Fresher feeling",
+        "text": "Removing hardened deposits leaves a noticeably smoother, cleaner surface."
+      },
+      {
+        "title": "Healthier gums",
+        "text": "Reducing bacterial load helps resolve mild inflammation and bleeding."
+      },
+      {
+        "title": "Brighter appearance",
+        "text": "Polishing lifts surface stain from coffee, tea and tobacco."
+      }
+    ],
+    "process": [
+      {
+        "title": "Check",
+        "text": "We assess the gums and note areas that need particular attention."
+      },
+      {
+        "title": "Scale",
+        "text": "Ultrasonic and hand instruments remove deposits gently and thoroughly."
+      },
+      {
+        "title": "Polish",
+        "text": "A fine polishing paste smooths the tooth surface and lifts stain."
+      },
+      {
+        "title": "Prevent",
+        "text": "We show you the interdental tools that suit your mouth."
+      }
+    ],
+    "technology": [
+      "Ultrasonic scaler with fine tips for comfort",
+      "Air-polishing for stubborn surface stain",
+      "Disclosing agents to reveal missed plaque"
+    ],
+    "faqs": [
+      {
+        "q": "Does scaling weaken teeth?",
+        "a": "No. Scaling removes deposits that sit on the tooth surface. Any temporary sensitivity usually settles within a few days, particularly if there was significant tartar."
+      },
+      {
+        "q": "Will my teeth feel different afterwards?",
+        "a": "Many patients notice that their teeth feel smoother and the spaces between them feel more open. This is normal and reflects the removal of calculus."
+      },
+      {
+        "q": "How often should I have it done?",
+        "a": "Typically every six to twelve months, but your gum health and risk factors determine the right interval for you."
+      }
+    ],
+    "related": [
+      "gum-treatment",
+      "preventive-dentistry",
+      "teeth-whitening"
+    ],
+    "active": true
+  },
+  {
+    "slug": "smile-makeovers",
+    "name": "Smile Makeovers",
+    "category": "Cosmetic",
+    "icon": "Smile",
+    "image": "/images/smile-woman-2.jpg",
+    "tagline": "A plan built around your face",
+    "summary": "A smile makeover combines treatments — whitening, bonding, veneers or alignment — into one considered plan that suits your features and goals.",
+    "duration": "Varies by plan",
+    "featured": true,
+    "intro": [
+      "A smile makeover is not a single procedure. It is a planning process that considers tooth colour, shape, proportion, gum display and facial harmony, then selects the least invasive combination of treatments that will achieve your goal.",
+      "We start with a conversation about what you would like to change and what you would like to keep. Sometimes the answer is whitening and a small repair; sometimes it is orthodontics followed by minor bonding. We will not propose more treatment than the result requires."
+    ],
+    "involves": [
+      "A smile assessment with photographs and digital analysis",
+      "A written plan with staged options and realistic limitations",
+      "A trial smile or mock-up where appropriate",
+      "Treatment sequenced for health, function and aesthetics",
+      "Review and maintenance guidance after completion"
+    ],
+    "reasons": [
+      "You feel self-conscious about colour, shape or spacing",
+      "Several small issues combine to make your smile look uneven",
+      "You are planning a wedding, career change or special event",
+      "You want a coordinated plan rather than isolated treatments"
+    ],
+    "benefits": [
+      {
+        "title": "Coherent result",
+        "text": "Treatments are planned together so colour, shape and bite work as one."
+      },
+      {
+        "title": "Conservative options first",
+        "text": "We consider whitening, bonding and alignment before more invasive work."
+      },
+      {
+        "title": "Preview",
+        "text": "A mock-up or digital simulation helps you approve the direction before treatment."
+      }
+    ],
+    "process": [
+      {
+        "title": "Listen",
+        "text": "We discuss what you notice about your smile and what you want to change."
+      },
+      {
+        "title": "Design",
+        "text": "Photographs, measurements and simulations guide a realistic proposal."
+      },
+      {
+        "title": "Sequence",
+        "text": "Health first, then alignment, then colour and shape — in a logical order."
+      },
+      {
+        "title": "Refine",
+        "text": "We review the result together and fine-tune comfort and detail."
+      }
+    ],
+    "technology": [
+      "Digital smile design and photographic analysis",
+      "Intraoral scanning and trial smile mock-ups",
+      "Shade matching under controlled lighting"
+    ],
+    "faqs": [
+      {
+        "q": "How much does a smile makeover cost?",
+        "a": "There is no single price because the plan varies so much. After assessment you receive an itemised written estimate, and we can often stage treatment to spread the investment."
+      },
+      {
+        "q": "How long does it take?",
+        "a": "Some plans are completed in a few weeks; others, particularly those involving orthodontics or implants, take several months. We will give you a realistic timeline before starting."
+      },
+      {
+        "q": "Will it look natural?",
+        "a": "Our aim is a result that suits your face rather than an obviously artificial smile. We use conservative preparation and carefully matched materials."
+      }
+    ],
+    "related": [
+      "dental-veneers",
+      "teeth-whitening",
+      "cosmetic-dentistry"
+    ],
+    "active": true
+  },
+  {
+    "slug": "cosmetic-dentistry",
+    "name": "Cosmetic Dentistry",
+    "category": "Cosmetic",
+    "icon": "Gem",
+    "image": "/images/smile-woman-5.jpg",
+    "tagline": "Subtle improvements, carefully made",
+    "summary": "From edge bonding to replacing old restorations, cosmetic dentistry refines the appearance of your teeth while respecting their natural structure.",
+    "duration": "30–120 minutes depending on treatment",
+    "featured": false,
+    "intro": [
+      "Cosmetic dentistry covers a range of treatments that improve how teeth look: composite bonding, veneers, tooth-coloured crowns, gum contouring and the replacement of discoloured older fillings.",
+      "The best cosmetic work is rarely obvious. It respects the natural translucency and texture of teeth, keeps preparation minimal and considers how the result will age. We will always tell you when a simpler or more conservative option would serve you better."
+    ],
+    "involves": [
+      "A detailed aesthetic assessment and photography",
+      "Discussion of options, longevity and maintenance",
+      "Minimal preparation wherever possible",
+      "Shade and texture matching to neighbouring teeth",
+      "Finishing, polishing and bite checks"
+    ],
+    "reasons": [
+      "Chipped, worn or irregular front teeth",
+      "Old fillings or crowns that no longer match your teeth",
+      "Small gaps or minor rotations you would like disguised",
+      "Discolouration that has not responded to whitening"
+    ],
+    "benefits": [
+      {
+        "title": "Natural-looking materials",
+        "text": "Modern composites and ceramics can blend closely with your own teeth."
+      },
+      {
+        "title": "Conservative approach",
+        "text": "Bonding can often improve appearance with little or no drilling."
+      },
+      {
+        "title": "Tailored",
+        "text": "We match shade, shape and texture to your face and existing teeth."
+      }
+    ],
+    "process": [
+      {
+        "title": "Consult",
+        "text": "We photograph, assess and discuss what you would like to change."
+      },
+      {
+        "title": "Plan",
+        "text": "Options are compared for appearance, longevity and cost."
+      },
+      {
+        "title": "Treat",
+        "text": "Bonding, veneers or replacement restorations are completed with careful shading."
+      },
+      {
+        "title": "Maintain",
+        "text": "We review the bite and explain how to protect the result."
+      }
+    ],
+    "technology": [
+      "Intraoral photography and shade matching",
+      "Micro-abrasion and polishing systems",
+      "Digital scanning for ceramic restorations"
+    ],
+    "faqs": [
+      {
+        "q": "Is composite bonding as good as veneers?",
+        "a": "They serve different purposes. Bonding is quicker and more conservative but may stain or chip over time; ceramic veneers are more durable and stain-resistant but usually require some enamel removal."
+      },
+      {
+        "q": "How long does bonding last?",
+        "a": "With good care, composite bonding commonly lasts several years before needing repair or replacement. Longevity depends on your bite, habits and maintenance."
+      },
+      {
+        "q": "Can cosmetic work damage my teeth?",
+        "a": "Any treatment carries some risk, which is why we favour the least invasive option that achieves the goal and explain trade-offs clearly before you decide."
+      }
+    ],
+    "related": [
+      "dental-veneers",
+      "teeth-whitening",
+      "smile-makeovers"
+    ],
+    "active": true
+  },
+  {
+    "slug": "full-mouth-rehabilitation",
+    "name": "Full Mouth Rehabilitation",
+    "category": "Restorative",
+    "icon": "Wrench",
+    "image": "/images/clinic-office.jpg",
+    "tagline": "Rebuilding function, comfort and confidence",
+    "summary": "For patients with extensive wear, multiple missing teeth or bite collapse, a phased plan can rebuild the mouth in a predictable, manageable way.",
+    "duration": "Several months, staged",
+    "featured": false,
+    "intro": [
+      "Full mouth rehabilitation describes the comprehensive reconstruction of a dentition affected by widespread wear, decay, failed restorations or tooth loss. It is rarely urgent and almost never needs to be completed in one heroic sequence.",
+      "We break the work into phases: stabilise disease, establish a comfortable bite, then rebuild in a planned order. You will always know what is being done, why, and what it costs before each stage begins."
+    ],
+    "involves": [
+      "A comprehensive assessment of teeth, gums, bite and jaw joints",
+      "Photographs, scans and records to plan the vertical dimension and tooth positions",
+      "Stabilisation of decay, gum disease and any infected teeth",
+      "Staged restorations using crowns, onlays, implants or prostheses",
+      "Long-term maintenance and review"
+    ],
+    "reasons": [
+      "Widespread tooth wear causing sensitivity or shortened teeth",
+      "Multiple missing teeth affecting eating and speech",
+      "A collapsed bite or difficulty finding a comfortable resting position",
+      "Old restorations that are failing together rather than individually"
+    ],
+    "benefits": [
+      {
+        "title": "A coherent plan",
+        "text": "Individual problems are addressed as part of one overall functional design."
+      },
+      {
+        "title": "Staged investment",
+        "text": "Treatment can be sequenced over time rather than completed all at once."
+      },
+      {
+        "title": "Improved comfort",
+        "text": "Restoring the bite can improve chewing, speech and jaw comfort."
+      }
+    ],
+    "process": [
+      {
+        "title": "Record",
+        "text": "We gather photographs, scans and bite records to understand the whole picture."
+      },
+      {
+        "title": "Stabilise",
+        "text": "Active disease and infection are treated before reconstruction begins."
+      },
+      {
+        "title": "Rebuild",
+        "text": "Restorations are placed in a planned sequence, with reviews at each stage."
+      },
+      {
+        "title": "Maintain",
+        "text": "A tailored maintenance programme protects the investment long term."
+      }
+    ],
+    "technology": [
+      "Digital occlusal analysis and bite registration",
+      "Intraoral scanning and 3D planning",
+      "Laboratory collaboration for complex ceramic work"
+    ],
+    "faqs": [
+      {
+        "q": "Do I have to do everything at once?",
+        "a": "No. Rehabilitation is usually staged over months. We prioritise health and stability first, then rebuild in phases that fit your budget and availability."
+      },
+      {
+        "q": "Will it be painful?",
+        "a": "Each stage is managed with appropriate anaesthesia and planned recovery time. Because treatment is staged, we can adjust the pace if you need more comfort."
+      },
+      {
+        "q": "How long will the result last?",
+        "a": "That depends on the materials, your bite, medical factors and maintenance. We will discuss realistic expectations for your specific plan rather than offering guarantees."
+      }
+    ],
+    "related": [
+      "dental-implants",
+      "dental-crowns-and-bridges",
+      "dentures"
+    ],
+    "active": true
+  },
+  {
+    "slug": "dentures",
+    "name": "Dentures",
+    "category": "Restorative",
+    "icon": "SmilePlus",
+    "image": "/images/denture-model.jpg",
+    "tagline": "Comfortable, natural-looking tooth replacement",
+    "summary": "Modern partial and complete dentures can restore appearance and function, with careful design and fit making a significant difference to comfort.",
+    "duration": "Several appointments over 4–6 weeks",
+    "featured": false,
+    "intro": [
+      "Dentures remain a practical and accessible way to replace multiple missing teeth. Modern acrylic and flexible materials, combined with careful impression techniques, can produce a fit that feels far removed from the loose dentures many people remember.",
+      "We will discuss partial dentures, complete dentures, implant-supported options and the alternatives such as bridges. Where a denture is the right choice, we invest time in the fit, bite and appearance rather than rushing the process."
+    ],
+    "involves": [
+      "A full assessment of remaining teeth, gums and supporting tissues",
+      "Detailed impressions and bite records",
+      "A trial stage so you can see and approve the appearance",
+      "Fitting and adjustment appointments",
+      "Advice on cleaning, wear and expected adaptation"
+    ],
+    "reasons": [
+      "Several teeth are missing and implants are not suitable or preferred",
+      "An existing denture is loose, uncomfortable or worn",
+      "You need a temporary prosthesis while implants heal",
+      "You want to improve the appearance of a removable appliance"
+    ],
+    "benefits": [
+      {
+        "title": "Restored appearance",
+        "text": "A well-designed denture supports the lips and facial profile."
+      },
+      {
+        "title": "Function",
+        "text": "Chewing and speech can be improved compared with missing teeth."
+      },
+      {
+        "title": "Non-surgical",
+        "text": "Dentures avoid surgery, which suits some patients and medical situations."
+      }
+    ],
+    "process": [
+      {
+        "title": "Assess",
+        "text": "We examine the mouth and discuss the type of denture that suits you."
+      },
+      {
+        "title": "Record",
+        "text": "Impressions and bite registrations capture the shape and relationship of your jaws."
+      },
+      {
+        "title": "Try in",
+        "text": "You preview the tooth position and appearance before final processing."
+      },
+      {
+        "title": "Fit",
+        "text": "The finished denture is fitted and adjusted for comfort and speech."
+      }
+    ],
+    "technology": [
+      "Precision impression materials and custom trays",
+      "Digital denture workflows where appropriate",
+      "Implant attachments for improved retention in selected cases"
+    ],
+    "faqs": [
+      {
+        "q": "How long will it take to get used to a denture?",
+        "a": "Most patients adapt over a few weeks. Speaking and eating may feel different at first, and minor adjustments are common during this period."
+      },
+      {
+        "q": "Can I sleep in my denture?",
+        "a": "It is generally better to remove it at night to let the gums rest. We will give you specific advice for your denture type."
+      },
+      {
+        "q": "Are implant-supported dentures better?",
+        "a": "They can offer much greater stability for suitable patients, but they involve surgery and additional cost. We will compare both options honestly."
+      }
+    ],
+    "related": [
+      "dental-implants",
+      "dental-crowns-and-bridges",
+      "full-mouth-rehabilitation"
+    ],
+    "active": true
+  },
+  {
+    "slug": "emergency-dental-care",
+    "name": "Emergency Dental Care",
+    "category": "Emergency",
+    "icon": "Siren",
+    "image": "/images/clinic-pov.jpg",
+    "tagline": "When something needs attention now",
+    "summary": "Same-day assessment for severe toothache, swelling, trauma or a broken tooth, with clear guidance on what to do while you wait.",
+    "duration": "30–60 minutes",
+    "featured": true,
+    "intro": [
+      "Dental emergencies are unsettling, and the uncertainty is often worse than the pain. We keep time in the diary for urgent problems and will tell you honestly how quickly you need to be seen.",
+      "If you have facial swelling that is spreading, difficulty swallowing or breathing, or a fever with a swollen face, seek urgent medical care immediately — call your local emergency service rather than waiting for a dental appointment."
+    ],
+    "involves": [
+      "A prompt telephone triage to establish urgency",
+      "A same-day or next-day clinical assessment where possible",
+      "Immediate pain management and treatment of the cause",
+      "Temporary stabilisation where definitive treatment must wait",
+      "A follow-up plan for completion of care"
+    ],
+    "reasons": [
+      "Severe or persistent toothache",
+      "A knocked-out, cracked or displaced tooth after trauma",
+      "Swelling around a tooth or jaw",
+      "A lost crown, broken filling or denture fracture"
+    ],
+    "benefits": [
+      {
+        "title": "Prompt assessment",
+        "text": "Urgent problems are prioritised and triaged by a clinician."
+      },
+      {
+        "title": "Clear advice",
+        "text": "You know what to do at home and when to seek emergency medical care."
+      },
+      {
+        "title": "Definitive plan",
+        "text": "Emergency treatment is followed by a clear route to complete care."
+      }
+    ],
+    "process": [
+      {
+        "title": "Call",
+        "text": "Describe your symptoms so we can prioritise you appropriately."
+      },
+      {
+        "title": "Assess",
+        "text": "We examine and take focused imaging to identify the cause."
+      },
+      {
+        "title": "Relieve",
+        "text": "Pain is addressed and the tooth stabilised or treated as needed."
+      },
+      {
+        "title": "Plan",
+        "text": "We agree the next steps and schedule definitive treatment."
+      }
+    ],
+    "technology": [
+      "Same-day digital radiography",
+      "Emergency restorative materials for temporary stabilisation",
+      "Direct access to on-call clinical advice during opening hours"
+    ],
+    "faqs": [
+      {
+        "q": "What counts as a dental emergency?",
+        "a": "Severe pain, uncontrolled bleeding, facial swelling, trauma or a tooth that has been knocked out. Swelling affecting breathing or swallowing is a medical emergency — call emergency services."
+      },
+      {
+        "q": "Can you see me today?",
+        "a": "We reserve time for urgent cases and will always try to see you the same day where clinically necessary. Call as early as possible for the best availability."
+      },
+      {
+        "q": "What if my tooth is knocked out?",
+        "a": "Handle it by the crown, not the root. If it is an adult tooth, try to reposition it or keep it in milk and seek immediate dental care. Do not replant a baby tooth."
+      }
+    ],
+    "related": [
+      "root-canal-treatment",
+      "tooth-extraction",
+      "general-dentistry"
+    ],
+    "active": true
+  }
+]

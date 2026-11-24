@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# The staff workspace is not for search engines.
+Disallow: /admin
+Disallow: /admin/
+
+# Replace the domain below with your production origin before deployment.
+Sitemap: https://www.aureliadental.studio/sitemap.xml

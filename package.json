@@ -1,0 +1,20 @@
+{
+  "name": "aurelia-dental-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aurelia Dental Studio — premium dental clinic website and admin platform",
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n api,web -c magenta,cyan \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "seed": "npm --prefix server run seed",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "typecheck": "npm --prefix client run typecheck"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

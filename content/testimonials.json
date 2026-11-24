@@ -1,0 +1,92 @@
+[
+  {
+    "id": "t-01",
+    "name": "Charlotte R.",
+    "initials": "CR",
+    "treatment": "Dental Implants",
+    "rating": 5,
+    "quote": "I had put off replacing a missing tooth for years because I was nervous about surgery. The team explained every stage in advance and the whole process was far calmer than I expected. I can eat properly again and I no longer think about the gap when I smile.",
+    "date": "2025-11-02",
+    "isSample": true
+  },
+  {
+    "id": "t-02",
+    "name": "Daniel M.",
+    "initials": "DM",
+    "treatment": "Root Canal Treatment",
+    "rating": 5,
+    "quote": "I arrived in pain and genuinely thought I would lose the tooth. The examination was thorough, the anaesthetic worked properly and I was shown exactly what was happening. The follow-up was thoughtful rather than rushed.",
+    "date": "2025-10-18",
+    "isSample": true
+  },
+  {
+    "id": "t-03",
+    "name": "Aisha K.",
+    "initials": "AK",
+    "treatment": "Clear Aligners",
+    "rating": 5,
+    "quote": "What I appreciated most was the honesty. I was told aligners would not fix everything and we discussed the limits before I paid anything. Fourteen months later, my teeth are where I wanted them and the retainers are easy to manage.",
+    "date": "2025-09-27",
+    "isSample": true
+  },
+  {
+    "id": "t-04",
+    "name": "Peter L.",
+    "initials": "PL",
+    "treatment": "Preventive Dentistry",
+    "rating": 5,
+    "quote": "I have never felt lectured here. They looked at what was actually causing my gum problems and gave me two changes I could realistically keep up. My hygienist visits are now quick and uneventful, which is exactly what I wanted.",
+    "date": "2025-09-12",
+    "isSample": true
+  },
+  {
+    "id": "t-05",
+    "name": "Meera S.",
+    "initials": "MS",
+    "treatment": "Children's Dentistry",
+    "rating": 5,
+    "quote": "My daughter was terrified after a bad experience elsewhere. The first visit involved no treatment at all — just a look around and a chat. Six months later she climbs into the chair without hesitation. That alone was worth the journey.",
+    "date": "2025-08-30",
+    "isSample": true
+  },
+  {
+    "id": "t-06",
+    "name": "James T.",
+    "initials": "JT",
+    "treatment": "Teeth Whitening",
+    "rating": 4,
+    "quote": "The result was subtle rather than dramatic, which is what I asked for. I had some sensitivity for two days and the team checked in to make sure it had settled. I would have liked a slightly brighter result, but it looks natural.",
+    "date": "2025-08-14",
+    "isSample": true
+  },
+  {
+    "id": "t-07",
+    "name": "Olivia B.",
+    "initials": "OB",
+    "treatment": "Smile Makeover",
+    "rating": 5,
+    "quote": "I expected to be sold a full set of veneers. Instead we started with whitening and bonding, and the result is far more natural than I imagined. Nothing was rushed and I never felt pressured to add treatment.",
+    "date": "2025-07-21",
+    "isSample": true
+  },
+  {
+    "id": "t-08",
+    "name": "Marcus H.",
+    "initials": "MH",
+    "treatment": "Emergency Dental Care",
+    "rating": 5,
+    "quote": "I called at 8am with a swollen face and was seen the same morning. They dealt with the immediate problem, explained what caused it and booked the definitive treatment before I left. Calm, efficient and kind.",
+    "date": "2025-07-05",
+    "isSample": true
+  },
+  {
+    "id": "t-09",
+    "name": "Sophie N.",
+    "initials": "SN",
+    "treatment": "Dental Hygiene",
+    "rating": 5,
+    "quote": "The clinic is quiet and beautifully kept, and nothing feels clinical in the unpleasant sense. My appointment started on time, the cleaning was gentle and I left knowing exactly what to do differently at home.",
+    "date": "2025-06-19",
+    "isSample": true
+  }
+]
